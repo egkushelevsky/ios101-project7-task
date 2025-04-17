@@ -1,10 +1,10 @@
-# Project 7 - *Name of App Here*
+# Project 7 - Tasks
 
-Submitted by: **Your Name Here**
+Submitted by: Elizabeth Kushelevsky
 
-**Name of your app** is an app that ... [TODO] 
+Tasks is an app that allows users to create tasks and has the data persist between app closings.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
